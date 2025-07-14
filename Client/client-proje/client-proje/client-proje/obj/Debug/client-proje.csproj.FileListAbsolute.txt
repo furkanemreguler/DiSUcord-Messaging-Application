@@ -1,0 +1,10 @@
+C:\Users\halil\OneDrive\Masaüstü\client-proje\client-proje\client-proje\bin\Debug\client-proje.exe.config
+C:\Users\halil\OneDrive\Masaüstü\client-proje\client-proje\client-proje\bin\Debug\client-proje.exe
+C:\Users\halil\OneDrive\Masaüstü\client-proje\client-proje\client-proje\bin\Debug\client-proje.pdb
+C:\Users\halil\OneDrive\Masaüstü\client-proje\client-proje\client-proje\obj\Debug\client-proje.csproj.AssemblyReference.cache
+C:\Users\halil\OneDrive\Masaüstü\client-proje\client-proje\client-proje\obj\Debug\client_proje.Form1.resources
+C:\Users\halil\OneDrive\Masaüstü\client-proje\client-proje\client-proje\obj\Debug\client_proje.Properties.Resources.resources
+C:\Users\halil\OneDrive\Masaüstü\client-proje\client-proje\client-proje\obj\Debug\client-proje.csproj.GenerateResource.cache
+C:\Users\halil\OneDrive\Masaüstü\client-proje\client-proje\client-proje\obj\Debug\client-proje.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\client-proje\client-proje\client-proje\obj\Debug\client-proje.exe
+C:\Users\halil\OneDrive\Masaüstü\client-proje\client-proje\client-proje\obj\Debug\client-proje.pdb
